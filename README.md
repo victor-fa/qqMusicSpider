@@ -13,5 +13,6 @@ max_number 是终止页数。
 2、需要新建文件后引入
 
 3、项目目录
+
 <img src="image1.png" width="450" height="450"/>
 
